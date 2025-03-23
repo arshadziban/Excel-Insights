@@ -2,6 +2,10 @@
 
 This project features an interactive and visually appealing dashboard created for analyzing and showcasing key metrics of coffee shop sales. The dashboard is designed to provide quick insights into sales trends, product performance, and customer behavior over different time periods.
 
+## Dashboard Preview
+
+![Dashboard Preview](DashBoard Image.png)
+
 ## Key Features
 
 1. **Overall Metrics:**
@@ -38,9 +42,7 @@ This project features an interactive and visually appealing dashboard created fo
 ## How to Use
 
 1. Download this repository to your local machine.
-
 2. Open the `.xlsx` file in Microsoft Excel.
-
 3. Explore the dashboard by interacting with slicers and visuals.
 
 ## Insights Gained
@@ -55,4 +57,3 @@ This project features an interactive and visually appealing dashboard created fo
 - Integrating real-time sales data.
 - Adding more advanced analytics, such as predictive sales trends.
 - Creating a mobile-friendly version of the dashboard.
-
