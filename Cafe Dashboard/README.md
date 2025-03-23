@@ -4,7 +4,7 @@ This project features an interactive and visually appealing dashboard created fo
 
 ## Dashboard Preview
 
-![Dashboard Preview](DashBoard Image.png)
+The dashboard file **"DashBoard Image.png"** is included in this repository. You can open it to get a visual overview of the insights presented.
 
 ## Key Features
 
