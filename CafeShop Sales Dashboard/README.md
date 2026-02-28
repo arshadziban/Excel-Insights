@@ -1,58 +1,77 @@
 # Coffee Shop Sales Dashboard
 
-## Overview
+## Project Overview
 
-This project presents a comprehensive, interactive dashboard developed for the analysis and visualization of critical performance metrics pertaining to coffee shop sales operations. The dashboard has been engineered to deliver actionable insights into sales trends, product performance metrics, and customer behavioral patterns across multiple temporal dimensions.
+This project is an interactive **Sales Intelligence Dashboard** built in Microsoft Excel. It analyzes transactional data from a multi-location coffee shop to uncover revenue patterns, customer behavior, and product performance insights.
 
-## Dashboard Visualization
+The objective of this project was to simulate a real-world business analytics scenario and convert raw sales data into actionable insights for decision-making.
+
+## Dashboard Preview
 
 ![Dashboard Preview](DashBoard%20Image.png)
 
-## Key Performance Indicators and Visualizations
+## Business Objectives
 
-| Metric | Value |
-|--------|-------|
-| Total Sales Revenue | $698,812.33 |
-| Transaction Volume | 149,116 |
-| Average Transaction Value | $5.00 |
+- Measure overall revenue performance
+- Analyze transaction volume and customer spending behavior
+- Identify peak sales hours
+- Evaluate store-wise performance
+- Determine top-performing products
+- Understand category and size distribution
 
-**Dashboard Components:**
-- **Hourly Order Analysis** – Line graph identifying peak operational periods
-- **Category Distribution** – Pie chart of sales by product category
-- **Size Distribution** – Pie chart of product size market share
-- **Store Performance** – Bar chart of footfall and revenue by location
-- **Top 5 Products** – Bar chart of highest-revenue items
-- **Weekday Trends** – Bar chart of daily sales distribution
-- **Interactive Filters** – Month and Day of Week slicer controls
+## Key Performance Indicators (KPIs)
 
-## Technical Implementation
+| KPI | Value |
+|-----|-------|
+| Total Revenue | $698,812.33 |
+| Total Transactions | 149,116 |
+| Average Bill Value | $5.00 |
+| Number of Store Locations | 3 |
 
-The following tools and technologies were employed in the development of this analytical dashboard:
+## Dashboard Features
 
-- **Microsoft Excel:** Utilized for the design and development of the interactive dashboard interface, inclusive of advanced data visualization and analytical components.
-- **Data Source:** Historical sales transactions from a specialty coffee retail establishment.
+### 1. Time-Based Analysis
+- Hourly order quantity trends
+- Weekday sales performance
+- Identification of peak business hours
 
-## Operational Instructions
+### 2. Product Analysis
+- Category distribution breakdown
+- Top 5 revenue-generating products
+- Size distribution of orders
 
-The following procedures outline the proper utilization of this dashboard:
+### 3. Store Performance Comparison
+- Revenue by store
+- Customer footfall analysis
+- Comparative performance metrics
 
-1. Clone or download this repository to your local system.
-2. Open the Excel workbook (`.xlsx` file) in Microsoft Excel.
-3. Navigate the dashboard interface through interactive slicer controls and visualizations to conduct customized analysis.
+## Tools & Techniques Used
 
-## Key Findings and Strategic Insights
+- **Microsoft Excel**
+- Pivot Tables & Pivot Charts
+- Data Cleaning & Aggregation
+- KPI Engineering
+- Slicers for Interactive Filtering
+- Dashboard Layout Design
+- Data Visualization Best Practices
 
-Analysis of the dashboard data has yielded the following significant observations:
+## Key Insights
 
-- Peak sales performance occurs during morning operational hours, demonstrating a strong correlation with consumer coffee demand patterns.
-- Coffee products represent the dominant revenue category, accounting for 39% of total sales.
-- Large and small product sizes demonstrate equivalent market penetration, each contributing 29% to aggregate sales revenue.
-- The Astoria retail location has established itself as the primary revenue generator and highest-traffic store.
+- Sales peak between **8 AM and 10 AM**.
+- **Coffee products** contribute the highest share of total revenue.
+- **Astoria store** generates the highest revenue and footfall.
+- **Large** and **Regular** sizes dominate overall sales.
+- **Weekday** performance is stronger than weekend sales.
 
-## Planned Enhancements and Future Development
 
-The following improvements and expansions have been identified for future implementation:
+## Skills Demonstrated
 
-- Integration of real-time sales data feeds to enhance dashboard currency and relevance.
-- Implementation of advanced analytical methodologies, including predictive modeling and trend forecasting capabilities.
-- Development and deployment of a responsive mobile interface to facilitate multi-platform accessibility.
+- Business Intelligence Thinking
+- Data Analysis & Aggregation
+- Dashboard Design
+- KPI Development
+- Data Storytelling
+- Insight Extraction
+
+## Author
+Arshad Ziban
